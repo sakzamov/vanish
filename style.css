@@ -5,6 +5,9 @@
     text-decoration: none;
     
 }
+html, body {
+    overflow-x: hidden;
+  }
 body{
     background-color:rgb(28, 40, 53);
     margin-top: 10vh;
@@ -294,3 +297,4 @@ footer{
     }
     
 }
+
